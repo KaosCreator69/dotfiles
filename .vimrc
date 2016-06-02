@@ -1,0 +1,12 @@
+set background=dark
+syntax on
+set hlsearch
+set nocompatible
+set autoindent
+set smartindent
+set tabstop=2
+set shiftwidth=2
+set showmatch
+set ruler
+set incsearch
+set number
